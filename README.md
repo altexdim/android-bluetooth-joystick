@@ -14,8 +14,8 @@ Original Author:
 -----------------------------
 YUS from PhilRobotics
 HomePage:
-    http://www.philrobotics.com/
-    http://projectproto.blogspot.com/
+http://www.philrobotics.com/
+http://projectproto.blogspot.com/
 FaceBook: https://www.facebook.com/philrobotics
 YouTube channel: http://www.youtube.com/user/julznc
 Email: julznc@yahoo.com
@@ -24,17 +24,17 @@ Donate via PayPal to: julznc@yahoo.com
 Licenses:
 -----------------------------
 Original project: 
-    Please contact original author julznc@yahoo.com.
-    URL: https://code.google.com/p/yus-repo/
-    License: Other Open Source.
+Please contact original author julznc@yahoo.com.
+URL: https://code.google.com/p/yus-repo/
+License: Other Open Source.
 
 Subprojects:
-    * The Android Open Source Project
-    URL: https://source.android.com/
-    License: Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
-    * Mobile Anarchy Widgets: JoystickView Widget
-    URL: https://code.google.com/p/mobile-anarchy-widgets/wiki/JoystickView
-    License: New BSD License
+* The Android Open Source Project
+URL: https://source.android.com/
+License: Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+* Mobile Anarchy Widgets: JoystickView Widget
+URL: https://code.google.com/p/mobile-anarchy-widgets/wiki/JoystickView
+License: New BSD License
 
 
 Current release binary:
