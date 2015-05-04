@@ -6,9 +6,9 @@ Android Bluetooth Joystick v2
 
 Original project
 -----------------------------
-Repository with source code: http://yus-repo.googlecode.com/svn/trunk/Android/apps/btjoystick/
-Forum topic with release: http://philrobotics.com/forum/index.php?topic=148.0
-Release in blog: http://projectproto.blogspot.ru/2012/02/bluetooth-joystick.html
+* Repository with source code: http://yus-repo.googlecode.com/svn/trunk/Android/apps/btjoystick/
+* Forum topic with release: http://philrobotics.com/forum/index.php?topic=148.0
+* Release in blog: http://projectproto.blogspot.ru/2012/02/bluetooth-joystick.html
 
 Original Author: 
 -----------------------------
