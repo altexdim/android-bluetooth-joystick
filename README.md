@@ -19,9 +19,9 @@ HomePage:
 * http://projectproto.blogspot.com/
 
 FaceBook: https://www.facebook.com/philrobotics
-YouTube channel: http://www.youtube.com/user/julznc
-Email: julznc@yahoo.com
-Donate via PayPal to: julznc@yahoo.com
+  YouTube channel: http://www.youtube.com/user/julznc
+  Email: julznc@yahoo.com
+  Donate via PayPal to: julznc@yahoo.com
 
 Licenses:
 -----------------------------
