@@ -39,3 +39,4 @@ ChangeLog:
         Commit author: Altex (Dmitry Ananyev) https://github.com/altexdim
         QuickBot site and repository: http://o-botics.org/robots/quickbot/mooc/v2/
         Coursera course "Control of Mobile Robots": https://www.coursera.org/course/conrob
+        Arduino Bluetooth QuickBot project: https://github.com/altexdim/arduino-bluetooth-quickbot
