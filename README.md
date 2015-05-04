@@ -14,9 +14,9 @@ Original Author:
 -----------------------------
 YUS from PhilRobotics
 
-HomePage:
+HomePage:  
 http://www.philrobotics.com/  
-http://projectproto.blogspot.com/  
+http://projectproto.blogspot.com/
 
 FaceBook: https://www.facebook.com/philrobotics  
 YouTube channel: http://www.youtube.com/user/julznc  
