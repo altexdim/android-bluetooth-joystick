@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/projects/android/android-joystick-app/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="dataFormat">
+        <item name="4">data only (4 bytes)</item>
+        <item name="5">precede by \'U\' (0x55)</item>
+        <item name="6">use STX(02) and ETX(03)</item>
+        <item name="7">$PWM=123,234*</item>
+    </string-array>
+    <string-array name="dataFormatValues">
+        <item name="4">4</item>
+        <item name="5">5</item>
+        <item name="6">6</item>
+        <item name="7">7</item>
+    </string-array>
+    <string-array name="timeoutCount">
+        <item name="0">Continually</item>
+        <item name="10">Every after 10 intervals</item>
+        <item name="20">Every after 20 intervals</item>
+        <item name="50">Every after 50 intervals</item>
+        <item name="-1">[Off]</item>
+    </string-array>
+    <string-array name="timeoutCountValues">
+        <item name="0">0</item>
+        <item name="10">10</item>
+        <item name="20">20</item>
+        <item name="50">50</item>
+        <item name="-1">-1</item>
+    </string-array>
+    <string-array name="updateInterval">
+        <item name="100">Every 100 milliseconds</item>
+        <item name="200">Every 200 milliseconds</item>
+        <item name="500">Every 500 milliseconds</item>
+        <item name="1000">Every 1 second</item>
+        <item name="2000">Every 2 seconds</item>
+    </string-array>
+    <string-array name="updateIntervalValues">
+        <item name="100">100</item>
+        <item name="200">200</item>
+        <item name="500">500</item>
+        <item name="1000">1000</item>
+        <item name="2000">2000</item>
+    </string-array>
+    <!-- From: file:/C:/projects/android/android-joystick-app/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">BTJoyStick</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth JoyStick.</string>
+    <string name="btnA_text">A</string>
+    <string name="btnB_text">B</string>
+    <string name="btnC_text">C</string>
+    <string name="btnD_text">D</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="dataL_text">( 0, 0 )</string>
+    <string name="dataR_text">( 0, 0 )</string>
+    <string name="none_found">No devices found</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="scanning">scanning for devices</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="status_text">C</string>
+    <string name="title_connected_to">connected to:</string>
+    <string name="title_connecting">connecting</string>
+    <string name="title_not_connected">not connected</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="title_paired_devices">Paired Devices</string>
+</resources>

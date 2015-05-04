@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory 
+        android:title="Joysticks Data"
+        android:key="first_category">
+        
+        <ListPreference 
+            android:key="data_format"
+            android:title="Data Format"
+            android:summary="how many bytes to send"
+            android:defaultValue="5" 
+            android:entries="@array/dataFormat"
+            android:entryValues="@array/dataFormatValues" />
+        
+        <ListPreference 
+            android:key="updates_interval"
+            android:title="Updates interval"
+            android:summary="intervals between joysticks data"
+            android:dialogTitle="Send data"
+            android:defaultValue="200" 
+            android:entries="@array/updateInterval"
+            android:entryValues="@array/updateIntervalValues" />
+        
+        <ListPreference 
+            android:key="maxtimeout_count"
+            android:title="Max timeout count"
+            android:summary="option to send data when idle"
+            android:dialogTitle="When idle, send data"
+            android:defaultValue="20" 
+            android:entries="@array/timeoutCount"
+            android:entryValues="@array/timeoutCountValues" />
+            
+    </PreferenceCategory>
+
+    <PreferenceCategory 
+        android:title="Buttons Data"
+        android:key="second_category">
+
+        <EditTextPreference
+            android:key="btnA_data"
+            android:title="Button A" 
+            android:dialogTitle="Button A data"
+            android:dialogMessage="type a message to send"
+            android:defaultValue="A" />
+        
+        <EditTextPreference
+            android:key="btnB_data"
+            android:title="Button B" 
+            android:dialogTitle="Button B data"
+            android:dialogMessage="type a message to send"
+            android:defaultValue="B" />
+        
+        <EditTextPreference
+            android:key="btnC_data"
+            android:title="Button C" 
+            android:dialogTitle="Button C data"
+            android:dialogMessage="type a message to send"
+            android:defaultValue="C" />
+        
+        <EditTextPreference
+            android:key="btnD_data"
+            android:title="Button D"
+            android:dialogTitle="Button D data"
+            android:dialogMessage="type a message to send"
+            android:defaultValue="D" />
+
+    </PreferenceCategory>
+    
+</PreferenceScreen>

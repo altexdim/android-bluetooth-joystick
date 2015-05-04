@@ -1,0 +1,1 @@
+C:\projects\android\android-joystick-app\app\build\intermediates\classes\debug
