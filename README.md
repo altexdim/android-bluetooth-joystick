@@ -25,10 +25,10 @@ Donate via PayPal to: julznc@yahoo.com
 
 Licenses:
 -----------------------------
-Original project: 
-* Please contact original author julznc@yahoo.com.
-* URL: https://code.google.com/p/yus-repo/
-* License: Other Open Source.
+Original project:
+* Please contact original author julznc@yahoo.com.  
+URL: https://code.google.com/p/yus-repo/  
+License: Other Open Source.
 
 Subprojects:
 * The Android Open Source Project  
