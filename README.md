@@ -45,7 +45,7 @@ Current release binary:
 
 ChangeLog:
 -----------------------------
-[4 May 2015] Added new output type format - "$PWM=123,234\*" for QuickBot.
+[4 May 2015] Added new output type format - "$PWM=123,234\*" for QuickBot.  
     Commit author: Altex (Dmitry Ananyev) https://github.com/altexdim  
     QuickBot site and repository: http://o-botics.org/robots/quickbot/mooc/v2/  
     Coursera course "Control of Mobile Robots": https://www.coursera.org/course/conrob  
