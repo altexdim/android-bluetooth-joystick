@@ -369,11 +369,11 @@ public class BluetoothJoystickActivity extends Activity implements OnSharedPrefe
 		    	sendMessage( new String(new byte[] {
 		    			0x02, radiusL, angleL, radiusR, angleR, 0x03 } ) );
             }else if( mDataFormat==7 ) {
-                // use "$PWM=123,234*"
+                // use "$PWM=12,23*"
 
                 // radiusL = 0 .. 10
                 // angleL = 0 .. 35
-                int radius = 255 * radiusL / 10;
+                int radius = 100 * radiusL / 10; // maximum value = 100
                 int angle = angleL * 10;
                 double angleRadians = Math.toRadians(angle);
 

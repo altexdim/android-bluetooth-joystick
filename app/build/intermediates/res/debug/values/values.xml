@@ -6,7 +6,7 @@
         <item name="4">data only (4 bytes)</item>
         <item name="5">precede by \'U\' (0x55)</item>
         <item name="6">use STX(02) and ETX(03)</item>
-        <item name="7">$PWM=123,234*</item>
+        <item name="7">$PWM=12,23* (max=100)</item>
     </string-array>
     <string-array name="dataFormatValues">
         <item name="4">4</item>
